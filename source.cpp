@@ -5,5 +5,6 @@ int USCLN(int a, int b)
 			a=a-b;
 		else
 			b=b-a;
+	cout << "cuong ";
 	return a;
 }
