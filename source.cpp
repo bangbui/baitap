@@ -14,6 +14,7 @@ void hello()
 }
 int tru(int a, int b)
 {
+	cout a-b;
 	return a-b;
 int cong(int a, int b)
 {
