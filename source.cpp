@@ -12,3 +12,7 @@ void hello()
 	
 	cout<<"Hello";
 }
+int cong(int a, int b)
+{
+	return a+b;
+}
