@@ -10,7 +10,7 @@ int USCLN(int a, int b)
 void hello()
 {
 	
-	cout<<"Hello";
+	cout<<"Hello"<<endl;
 }
 int tru(int a, int b)
 {
