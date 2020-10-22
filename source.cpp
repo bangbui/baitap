@@ -7,11 +7,7 @@ int USCLN(int a, int b)
 			b=b-a;
 	return a;
 }
-void hello()
-{
-	
-	cout<<"Hello"<<endl;
-}
+
 int tru(int a, int b)
 {
 	cout<<a-b;
